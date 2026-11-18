@@ -1,16 +1,60 @@
-# Oi gente 😄
 
-Meu nome é Addhyel, mas caso prefiram podem me chamar de Dyel, estou no aprendendo a desenvolver desde 2022, atualmente estou estudando Back-end, sou fascínado pela programação, gosto de aprender coisas novas e ter experiências diferentes.
+# Olá, eu sou Addhyel Martins 👋
 
-### Para me encontrar :
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🛡️ Em formação em Cibersegurança Defensiva | Blue Team | SOC N1  
+💻 Experiência em Suporte Técnico, atendimento e operações corporativas  
+📍 Paraíba, Brasil
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/addhyel-martins-7a8b291b5/)
+## Sobre mim
 
-### Hards Skills
+Sou estudante de ADS, com experiência profissional em suporte ao usuário, resolução de problemas, análise de ocorrências e documentação técnica.
 
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+Atualmente, direciono meus estudos para Cibersegurança Defensiva, com foco em monitoramento, investigação de alertas, resposta a incidentes e segurança em nuvem.
 
-> Aprenda a aprender e mantenha-se relevante em um mundo repleto de mudanças - Conrado Schlochauer (lifelong learners)
+Também possuo formação em Desenvolvimento Back-end, com conhecimentos em JavaScript, Node.js, APIs REST e PostgreSQL.
 
+## Conhecimentos técnicos
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addmartins&custom_title=Linguagens%20%Principais&theme=dark&hide_border=true)
+**Cibersegurança**
+- Blue Team e fundamentos de SOC
+- Análise de logs e triagem de incidentes
+- MITRE ATT&CK
+- Fundamentos de redes TCP/IP
+- Segurança na AWS, IAM e Amazon GuardDuty
+- Análise de vulnerabilidades
+
+**Desenvolvimento**
+- JavaScript e Node.js
+- Express.js e APIs REST
+- SQL e PostgreSQL
+- Git e GitHub
+
+**Operações e suporte**
+- Suporte técnico e investigação de problemas
+- Documentação e gestão de chamados
+- SLA e melhoria contínua
+- Metodologias ágeis
+
+## Projeto em destaque
+
+### Investigação de achado do Amazon GuardDuty
+
+Estudo de caso educacional envolvendo uma instância EC2, exposição SSH, análise de hipóteses, identificação de evidências e proposta de contenção proporcional.
+
+O exercício utiliza um cenário simulado com apoio de IA e não representa uma investigação realizada em produção.
+
+[Ver estudo de caso](https://github.com/Addmartins/meus-desafios-criativos)
+
+## Formação complementar
+
+- Cibersegurança — Santander / DIO
+- Segurança e Governança na AWS — DIO
+- Inteligência Artificial Generativa e Agentes — DIO
+- Desenvolvimento Back-end — Cubos Academy
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/addhyel-martins-7a8b291b5/)
+
+Estou aberto a oportunidades em Suporte Técnico, Desenvolvimento Back-end e Cibersegurança Júnior.
